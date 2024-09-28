@@ -1,0 +1,11 @@
+DHCP range : 10.0.0.0 - 10.0.3.254
+Subnetmask : 255.255.252.0
+
+Reservations:
+-10.0.0.1 / 10.0.0.20 Routers/AP
+-10.0.0.21 / 10.0.0.40 Printers
+-10.0.0.100 / 10.0.0.254 PC's
+
+-10.0.1.1 / 10.0.1.253 Proxmox Services
+
+-10.0.2.1 / 10.0.1.253 Smart Devices
